@@ -2,7 +2,6 @@
     background-color: rgb(199, 252, 252);
     padding: 25px;
     width: 500px;
-    /* margin-left: 20px; */
 }
 .submit {
     width: 180px;
@@ -13,7 +12,6 @@
     margin: 0;
 }
 .inputContact{
-    /* font-size: 25px;   */
     width: 400px; 
     margin: 15px 0;
     padding: 7px;

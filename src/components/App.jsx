@@ -19,7 +19,6 @@ export class App extends Component {
       id: nanoid(),
       ...data,
     };
-    console.log(newContact);
 
     this.setState(({contacts})=>({
       contacts: [...contacts, newContact]
